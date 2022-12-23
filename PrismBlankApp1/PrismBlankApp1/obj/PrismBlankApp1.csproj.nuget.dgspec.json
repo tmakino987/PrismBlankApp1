@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lhapl\\Documents\\RPC\\RPC-knowledge\\source\\PrismBlankApp1\\PrismBlankApp1\\PrismBlankApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lhapl\\Documents\\RPC\\RPC-knowledge\\source\\PrismBlankApp1\\PrismBlankApp1\\PrismBlankApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lhapl\\Documents\\RPC\\RPC-knowledge\\source\\PrismBlankApp1\\PrismBlankApp1\\PrismBlankApp1.csproj",
+        "projectName": "PrismBlankApp1",
+        "projectPath": "C:\\Users\\lhapl\\Documents\\RPC\\RPC-knowledge\\source\\PrismBlankApp1\\PrismBlankApp1\\PrismBlankApp1.csproj",
+        "packagesPath": "C:\\Users\\lhapl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lhapl\\Documents\\RPC\\RPC-knowledge\\source\\PrismBlankApp1\\PrismBlankApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\lhapl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MahApps.Metro": {
+              "target": "Package",
+              "version": "[2.4.9, )"
+            },
+            "Prism.DryIoc": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UD4fbakrhEtgofBsIUkMkleR/G1VQfQmizOUZjTMDvjScJwzi6oPwpuUowLtevhd8CRGyz9nuGRtAFm+mscGjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lhapl\\Documents\\RPC\\RPC-knowledge\\source\\PrismBlankApp1\\PrismBlankApp1\\PrismBlankApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lhapl\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\lhapl\\.nuget\\packages\\dryioc.dll\\4.5.0\\dryioc.dll.4.5.0.nupkg.sha512",
+    "C:\\Users\\lhapl\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\lhapl\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\lhapl\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\lhapl\\.nuget\\packages\\prism.dryioc\\8.0.0.1909\\prism.dryioc.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\lhapl\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512"
+  ],
+  "logs": []
+}
